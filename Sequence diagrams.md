@@ -1,0 +1,7 @@
+## Sequence diagram: Подбор альтернативного рейса
+![Диаграмма процессов](https://github.com/chipuchka/Case-/blob/76b44d236c30cbddf87cb5cbd957f543f53f1d91/RLHDQzj04BtdLmmwjL0JJ6y-17pe8P13eANagYO-64mS4j5p994wnQ76fVVIMu-oAzdoX-I_CFkF-cPMiYN5FaZQzSnxysRVB17HdNllzQ_xT-wjHmx_vPGpZiZudFFCZ4s0ZPL3xWErJ-XL-1zEZO-OXBT8uXsIOfvnRXvb6V76lCY_M09KiUQArRtuT0Jj9w8IyumdEAbxUKv8J7Ybn.png)
+<br>
+<br>
+
+## Sequence diagram: Обновление общего плана поездки
+![Диаграмма процессов](https://github.com/chipuchka/Case-/blob/48b4d86ef1ed7b6ae1e0016d8e5d4fb214dda0de/fLExIWDH4Etp5OEL5lv02Y4X28AeXONj6bC4n0HThFD0L8oAO2_-mHfpDUvkrb-O-IFFpCrpOx2mIBWxT-QSCsVc4X45rR1nJlp2aRIbpH5_y51Q55pGGUc82iYWPd0UrglrPd0MqXg_uhuj7NQSSaJypGcAHbh46VV7vqVIMsd93NvTwQmPu6vfpoEU165m75pK0FV4ptPPAVzD9bqGE.png)
