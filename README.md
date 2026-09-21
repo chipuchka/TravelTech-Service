@@ -22,7 +22,7 @@
 - Надёжность при отказах внешних API
 
 ### [User Stories](https://github.com/chipuchka/TravelTech-Service/blob/e8cfe9e6db90ede0951834358cd77146226731bb/User%20Stories.md)
-### [Use Cases](
+### [Use Cases](https://github.com/chipuchka/TravelTech-Service/blob/8cf1fceca942b7c5fac134da48f6cbb683b7983a/Use%20Cases.md)
 ### [Sequence Diagrams](
 ### [BPMN](
 ### [Базы Данных](
