@@ -21,7 +21,7 @@
 - Персонализация без утечки данных
 - Надёжность при отказах внешних API
 
-### [User Stories](
+### [User Stories](https://github.com/chipuchka/TravelTech-Service/blob/e8cfe9e6db90ede0951834358cd77146226731bb/User%20Stories.md)
 ### [Use Cases](
 ### [Sequence Diagrams](
 ### [BPMN](
